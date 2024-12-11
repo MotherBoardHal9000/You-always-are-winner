@@ -256,6 +256,7 @@
   .viewAll{
     width: 150px;
     height: 80px;
+    margin-top: 30px;
     background-color: #201035;
     border-radius: 15px;
     color: #ffffff;
@@ -285,6 +286,36 @@
 
 
 
+  .section03TextBox{
+    width: 50%;
+    height: 100%;
+    float: right;
+    color: #ffffff;
+    padding-top: 110px;
+  }
+
+
+
+  .section03TextBox h4{
+    padding-bottom: 30px;
+  }
+
+
+  .section03TextBox h2{
+    font-size: 2.8rem;
+    font-weight: 600;
+    padding-bottom: 30px;
+    
+  }
+
+
+
+  .section03TextBox p{
+    font-weight: 200;
+  }
+
+
+
   /*section04*/
   .section04{
     width: 100vw;
@@ -297,6 +328,8 @@
     height: 100%;
     margin: 0 auto;
     position: relative;
+    opacity: 0;
+    transition: all 1s;
   }
   .section04Contents h2{
     font-size: 2rem;

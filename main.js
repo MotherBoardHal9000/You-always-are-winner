@@ -6,6 +6,9 @@ const section02Contents = document.querySelector(".section02Contents");
 const section03ScrollY = "1050"; 
 const section03ScrollYend= "1650";
 const section03Contents = document.querySelector(".section03Contents");
+const section04ScrollY = "2000"; 
+const section04ScrollYend= "2750";
+const section04Contents = document.querySelector(".section04Contents");
 
 
 
@@ -22,6 +25,10 @@ window.addEventListener("scroll",function(addEventListener){
         window.scrollY >section03ScrollY &&
         window.scrollY <section03ScrollYend
       ){ section03Contents.style.opacity= 1;}
+      if (
+        window.scrollY >section04ScrollY &&
+        window.scrollY <section04ScrollYend
+      ){ section04Contents.style.opacity= 1;}
 })
 
 
