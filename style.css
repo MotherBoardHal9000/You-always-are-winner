@@ -91,8 +91,8 @@
     height: 1075px;
     position: absolute;
     background-color: #b0ffbb;
-    border-bottom-left-radius:70px ;
-    border-bottom-right-radius:70px ;
+    border-bottom-left-radius:85px ;
+    border-bottom-right-radius:85px ;
 
   }
 
@@ -153,6 +153,16 @@
   }
   
 
+#downArrow{
+  position: absolute;
+  bottom: 100px;
+  left: 50px;
+}
+
+
+
+
+
   .coinBox01{
     width: 386px;
     height: 310px;
@@ -203,7 +213,7 @@
 
   .section02{
     width: 100vw;
-    height: 1330px;
+    height: 1030px;
   }
 
 
@@ -211,5 +221,102 @@
     width: 1600px;
     height: 100%;
     margin: 0 auto;
-    border: 1px solid red;
+    border: 1px solid rgb(190, 190, 190);
   }
+
+  .section02Contents h2{
+    font-size: 3rem;
+    font-weight: 700;
+    margin-left: 50px;
+    margin-top: 105px;
+  }
+
+  .section02Contents ul{
+    margin-left: 50px;
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+  }
+
+  .section02Contents ul button{
+    padding: 15px;
+    border: none;
+  }
+
+
+  .graphChart{
+    width: 1600px;
+    height: 645px;
+    border: 1px solid rgb(190, 190, 190);
+  }
+
+
+  .viewAll{
+    width: 150px;
+    height: 80px;
+    background-color: #201035;
+    border-radius: 15px;
+    color: #ffffff;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+
+
+
+
+
+
+  /*section03*/
+  .section03{
+    width: 100vw;
+    height: 635px;
+  }
+
+  .section03Contents{
+    width: 1600px;
+    height: 90%;
+    margin: 0 auto;
+    margin-top: 130.5px;
+    background-color: #201035;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 55px;
+  }
+
+
+
+
+  /*section04*/
+  .section04{
+    width: 100vw;
+    height: 1105px;
+  }
+
+
+  .section04Contents{
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+  }
+  .section04Contents h2{
+    font-size: 2rem;
+    font-weight: 900;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .section04ContentsBox{
+    width: 1200px;
+    height: 80%;
+    background-color: #cce8fe;
+    border-radius: 25px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 100px;
+  }
+
+
