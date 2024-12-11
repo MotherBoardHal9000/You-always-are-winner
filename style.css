@@ -341,13 +341,13 @@
 
   .section04ContentsBox{
     width: 1200px;
-    height: 80%;
+    height: 70%;
     background-color: #cce8fe;
-    border-radius: 25px;
+    border-radius: 50px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 100px;
+    bottom: 200px;
   }
 
 
@@ -357,17 +357,51 @@
   width: 100vw;
   height: 513px;
   background-color: #7af98e;
+  color:#201035;
  
 }
 
 .section05Contents{
-  width: 1600px;
+  width: 1200px;
   height: 100%;
   margin: 0 auto;
   position: relative;
- 
-
 }
+
+
+.section05TextBox{
+  width: 850px;
+  height: 100%;
+  padding-top: 120px;
+  float: left;
+}
+
+.section05TextBox h4{
+  padding-bottom: 30px;
+}
+
+
+.section05TextBox h2{
+  font-size: 2.8rem;
+  font-weight: 800;
+  padding-bottom: 30px;
+  
+}
+
+
+
+.section05TextBox p{
+  font-weight: 300;
+}
+
+
+
+
+
+
+
+
+
 /*footer*/
 .footer{
   width: 100vw;
