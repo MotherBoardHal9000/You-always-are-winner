@@ -221,6 +221,8 @@
     width: 1600px;
     height: 100%;
     margin: 0 auto;
+    opacity: 0;
+    transition: all 1s;
    
   }
 
@@ -262,12 +264,6 @@
     transform: translateX(-50%);
   }
 
-
-
-
-
-
-
   /*section03*/
   .section03{
     width: 100vw;
@@ -282,6 +278,8 @@
     background-color: #201035;
     border: 1px solid rgb(190, 190, 190);
     border-radius: 55px;
+    opacity: 0;
+    transition: all 1s;
   }
 
 
