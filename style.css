@@ -221,7 +221,7 @@
     width: 1600px;
     height: 100%;
     margin: 0 auto;
-    border: 1px solid rgb(190, 190, 190);
+   
   }
 
   .section02Contents h2{
@@ -320,3 +320,26 @@
   }
 
 
+/*section05*/
+
+.section05{
+  width: 100vw;
+  height: 513px;
+  background-color: #7af98e;
+ 
+}
+
+.section05Contents{
+  width: 1600px;
+  height: 100%;
+  margin: 0 auto;
+  position: relative;
+ 
+
+}
+/*footer*/
+.footer{
+  width: 100vw;
+  height: 379px;
+  background-color: #000000;
+}
