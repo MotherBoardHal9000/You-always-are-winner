@@ -54,13 +54,13 @@
      /*section01*/
      .section01{
       width: 100vw;
-      height: 1072px;
+      height: 975px;
     
     }
   
     .section01Contents{
       width: 1600px;
-      height:1072px;
+      height:975px;
       margin: 0 auto;
     
     }
@@ -68,7 +68,7 @@
 
   .contentsBox{
     width: 1600px;
-    height: 1075px;
+    height: 975px;
     position: absolute;
     background-color: #b0ffbb;
     border-bottom-left-radius:85px ;
@@ -309,6 +309,7 @@
     margin: 0 auto;
     position: relative;
     opacity: 0;
+    transition: all 1s;
   }
   .section04Contents h2{
     font-size: 2rem;
@@ -320,17 +321,15 @@
 
   .section04ContentsBox{
     width: 1200px;
-    height: 80%;
+    height: 70%;
     background-color: #cce8fe;
-    border-radius: 25px;
+    border-radius: 50px;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    bottom: 100px;
+    bottom: 200px;
   }
 
-
-/*section05*/
 
 /*section05*/
 
@@ -368,6 +367,7 @@
   float: left;
 }
 
+
 .mobileUIUX01{ width: 345px;
   height: 97%;
   border: 1.5px solid #201035;
@@ -392,8 +392,6 @@
   background-size: contain;
   background-color: #ffffff;
 }
-
-
 
 
 

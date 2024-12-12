@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 144 223">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-size: 12px;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7 {
+        isolation: isolate;
+      }
+
+      .st0, .st1, .st2, .st4, .st5, .st6, .st7 {
+        font-family: Montserrat-Medium, Montserrat;
+        font-weight: 500;
+      }
+
+      .st8 {
+        fill: #230d3c;
+      }
+
+      .st1 {
+        font-size: 8px;
+      }
+
+      .st9, .st6 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #adadad;
+      }
+
+      .st2, .st5, .st6 {
+        font-size: 4px;
+      }
+
+      .st10 {
+        fill: #e6fcf0;
+      }
+
+      .st11 {
+        fill: #1b01e0;
+      }
+
+      .st12 {
+        stroke: #230d3c;
+        stroke-width: .5px;
+      }
+
+      .st12, .st13, .st14, .st15, .st16 {
+        fill: none;
+      }
+
+      .st12, .st14, .st16 {
+        stroke-miterlimit: 10;
+      }
+
+      .st4 {
+        font-size: 13px;
+      }
+
+      .st5 {
+        fill: #3ea27e;
+      }
+
+      .st17 {
+        fill: #1d1d1d;
+      }
+
+      .st13 {
+        stroke: #1d1d1d;
+      }
+
+      .st13, .st15 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .st14, .st16 {
+        stroke: #adadad;
+      }
+
+      .st18 {
+        fill: #fafafa;
+      }
+
+      .st19 {
+        fill: #2a9f6a;
+      }
+
+      .st7 {
+        fill: #2d1a3a;
+        font-size: 5px;
+      }
+
+      .st15 {
+        stroke: #11002d;
+      }
+
+      .st16 {
+        stroke-dasharray: 4.92 2.95;
+      }
+    </style>
+  </defs>
+  <rect class="st9" width="144" height="223"/>
+  <rect class="st10" x="7.36" y="61.54" width="130" height="49" rx="4.97" ry="4.97"/>
+  <rect class="st18" x="7.36" y="119.54" width="130" height="108" rx="4.97" ry="4.97"/>
+  <rect class="st10" x="7.36" y="20.54" width="17" height="17" rx="2.96" ry="2.96"/>
+  <rect class="st8" x="126.01" y="7.54" width="9.36" height="3" rx=".46" ry=".46"/>
+  <rect class="st12" x="124.86" y="6.54" width="11.5" height="5" rx="1.05" ry="1.05"/>
+  <g class="st3">
+    <text class="st0" transform="translate(7.9 53.83)"><tspan x="0" y="0">Information</tspan></text>
+  </g>
+  <g class="st3">
+    <text class="st4" transform="translate(19.9 95.83)"><tspan x="0" y="0">$1,302.78</tspan></text>
+  </g>
+  <g class="st3">
+    <text class="st1" transform="translate(54.36 33.33)"><tspan x="0" y="0">Ethereum</tspan></text>
+  </g>
+  <g class="st3">
+    <text class="st1" transform="translate(20 79.33)"><tspan x="0" y="0">ETH</tspan></text>
+  </g>
+  <g class="st3">
+    <text class="st5" transform="translate(40 78.33)"><tspan x="0" y="0">+0.61%</tspan></text>
+  </g>
+  <g class="st3">
+    <text class="st7" transform="translate(7 11.33)"><tspan x="0" y="0">9:41</tspan></text>
+  </g>
+  <g class="st3">
+    <text class="st2" transform="translate(97.98 78.33)"><tspan x="0" y="0">Past 6 month</tspan></text>
+  </g>
+  <polyline class="st15" points="18.11 25.54 14.11 29.54 18.11 33.54"/>
+  <g>
+    <line class="st14" x1="16.11" y1="171.48" x2="18.61" y2="171.48"/>
+    <line class="st16" x1="21.57" y1="171.48" x2="122.39" y2="171.48"/>
+    <line class="st14" x1="123.86" y1="171.48" x2="126.36" y2="171.48"/>
+  </g>
+  <rect class="st11" x="19.36" y="186.54" width="2" height="41" rx=".5" ry=".5"/>
+  <rect class="st11" x="34.36" y="186.54" width="2" height="22" rx=".5" ry=".5"/>
+  <rect class="st11" x="44.36" y="186.54" width="2" height="22" rx=".5" ry=".5"/>
+  <rect class="st11" x="79.36" y="169.54" width="2" height="22" rx=".5" ry=".5"/>
+  <rect class="st11" x="84.36" y="179.54" width="2" height="22" rx=".5" ry=".5"/>
+  <rect class="st11" x="49.36" y="190.54" width="2" height="15" rx=".5" ry=".5"/>
+  <rect class="st11" x="74.36" y="163.54" width="2" height="15" rx=".5" ry=".5"/>
+  <rect class="st19" x="54.36" y="187.54" width="2" height="15" rx=".5" ry=".5"/>
+  <rect class="st19" x="108.36" y="165.54" width="2" height="15" rx=".5" ry=".5"/>
+  <rect class="st19" x="64.36" y="163.54" width="2" height="20" rx=".5" ry=".5"/>
+  <rect class="st19" x="69.36" y="157.54" width="2" height="22" rx=".5" ry=".5"/>
+  <rect class="st19" x="59.36" y="168.54" width="2" height="34" rx=".5" ry=".5"/>
+  <rect class="st19" x="93.36" y="163.54" width="2" height="20" rx=".5" ry=".5"/>
+  <rect class="st19" x="103.36" y="163.54" width="2" height="20" rx=".5" ry=".5"/>
+  <rect class="st19" x="113.36" y="163.54" width="2" height="20" rx=".5" ry=".5"/>
+  <rect class="st19" x="98.36" y="157.54" width="2" height="22" rx=".5" ry=".5"/>
+  <rect class="st19" x="88.36" y="168.54" width="2" height="34" rx=".5" ry=".5"/>
+  <rect class="st19" x="24.36" y="181.54" width="2" height="46" rx=".5" ry=".5"/>
+  <rect class="st19" x="29.36" y="175.54" width="2" height="25" rx=".5" ry=".5"/>
+  <rect class="st19" x="39.36" y="173.54" width="2" height="29" rx=".5" ry=".5"/>
+  <g>
+    <rect class="st17" x="17.36" y="154.54" width="25" height="11" rx="2.04" ry="2.04"/>
+    <g class="st3">
+      <text class="st6" transform="translate(24 161.33)"><tspan x="0" y="0">$0.036</tspan></text>
+    </g>
+    <line class="st13" x1="29.86" y1="164.2" x2="29.86" y2="170.25"/>
+  </g>
+  <g>
+    <rect class="st8" x="113.46" y="9.1" width=".79" height="2.7"/>
+    <rect class="st8" x="115.04" y="7.96" width=".79" height="3.84"/>
+    <rect class="st8" x="116.63" y="7.01" width=".79" height="4.79"/>
+    <rect class="st8" x="118.22" y="6.28" width=".79" height="5.52"/>
+  </g>
+</svg>
