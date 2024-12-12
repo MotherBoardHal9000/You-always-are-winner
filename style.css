@@ -74,13 +74,13 @@
      /*section01*/
      .section01{
       width: 100vw;
-      height: 1072px;
+      height: 975px;
     
     }
   
     .section01Contents{
       width: 1600px;
-      height:1072px;
+      height:975px;
       margin: 0 auto;
     
     }
@@ -88,7 +88,7 @@
 
   .contentsBox{
     width: 1600px;
-    height: 1075px;
+    height: 975px;
     position: absolute;
     background-color: #b0ffbb;
     border-bottom-left-radius:85px ;
@@ -355,7 +355,7 @@
 
 .section05{
   width: 100vw;
-  height: 513px;
+  height: 613px;
   background-color: #7af98e;
   color:#201035;
  
@@ -366,6 +366,8 @@
   height: 100%;
   margin: 0 auto;
   position: relative;
+  opacity: 0;
+  transition: all 1s;
 }
 
 
@@ -375,6 +377,44 @@
   padding-top: 120px;
   float: left;
 }
+
+.section05TextBox input{
+  width: 40%;
+  height: 50px;
+  border: 1px solid #201035;
+  border-radius: 5px;
+  margin-top: 40px;
+  float: left;
+}
+
+
+.mobileUIUX01{ width: 345px;
+  height: 97%;
+  border: 1.5px solid #201035;
+  border-top-left-radius: 45px;
+  border-top-right-radius:45px ;
+  float: right;
+  margin-top: 6.7%;}
+
+
+
+.mobileUIUX02{
+  width: 300px;
+  height: 86%;
+  border: 1.5px solid #201035;
+  border-top-left-radius: 25px;
+  border-top-right-radius:25px ;
+  margin-top: 6.7%;
+  margin-left: 20px;
+  background-image: url(./img/mobileGraph.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: #ffffff;
+}
+
+
+
 
 .section05TextBox h4{
   padding-bottom: 30px;
@@ -396,10 +436,16 @@
 
 
 
+.section05TextBox button{
+  width: 20%;
+  height: 60px;
+  background-color: #201035;
+  color: #ffffff;
+  border-radius: 5px;
+  margin-top: 35px;
+  margin-left: 25px;
 
-
-
-
+}
 
 
 /*footer*/
@@ -407,4 +453,27 @@
   width: 100vw;
   height: 379px;
   background-color: #000000;
+  z-index: 5;
+}
+
+.footerContents{
+  width: 1600px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+
+.footerFloor{
+  width: 100vw;
+  height: 140px;
+  border-top:1px solid #4f4f4f;
+  background-color: #000000;
+  margin: 0 auto;
+}
+
+
+.footerFloorContents{
+  width: 1600px;
+  height: 100%;
+  margin: 0 auto;
 }
